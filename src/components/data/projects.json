@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1,
+    "title": "HR Management System",
+    "imageSrc": "https://cdn.pixabay.com/photo/2025/02/12/15/26/15-26-30-838__340.jpg",
+    "description": "This is a project made with complete Flask and MySQL.",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "CMS",
+    "imageSrc": "https://cdn.pixabay.com/photo/2019/06/30/16/25/content-management-4308363_1280.jpg",
+    "description": "This is a project made with MERN Stack.",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Movie Card",
+    "imageSrc": "https://techknowprime.com/wp-content/uploads/2022/12/Movie-Ticket-Animation.webp",
+    "description": "This is a project made with complete React js.",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer Intern",
+    "organisation": "UPL SNIPE TECH PVT LTD",
+    "startDate": "OCT 2024",
+    "endDate": "DEC 2024",
+    "location": "Bengaluru",
+    "experiences": [
+      "Built a Content Management System (CMS) using React, Node.js, and REST API, which facilitated thecreation,management and publication of digital content. Provided a platform for content creators to authorarticles, manage media assets, customize layouts and publish content dynamically."
+      
+    ],
+    "imageSrc": "company/UPL.jpg"
+  }
+]
